@@ -53,7 +53,7 @@ const Todos = () => {
     setTodos(newTodos);
   }
   return (
-    <div>
+    <div className='cls'>
       <Row>
         <Col xs="4" sm={4}></Col>
         <Col xs="4" sm={4}>
